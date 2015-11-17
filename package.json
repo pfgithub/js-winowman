@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/pfgithub/js-winowman#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
   }
 }

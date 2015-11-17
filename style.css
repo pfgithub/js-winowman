@@ -5,6 +5,18 @@
   width:100%;
   height:100%;
 }
-ul.contained{
-  position:fixed;
+li.contained{
+  position:absolute;
+  margin:0;
+  border:none;
+  padding:0;
+  list-style: none;
+}
+.titlebar{
+  position:relative;
+  top:0;
+  left:0;
+  width:100%;
+  height:20px;
+  background-color: #eee;
 }

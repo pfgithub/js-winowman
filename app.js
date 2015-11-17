@@ -1,4 +1,5 @@
-const wm = require('./api/windowman-b.js');
+const wm = require('./api/windowman.js');
 
-console.log(wm);
-var window = wm.window("My window");
+$(function(){
+  var window = new wm.Window("My window");
+});
